@@ -9,7 +9,7 @@ y<-vector();
 while(index<=num_var) {
 
 	u1 = runif(1,0,1);
-	u2 = runif(1,0,1);[
+	u2 = runif(1,0,1);
 
 	v1 = 2*u1 - 1;
 
